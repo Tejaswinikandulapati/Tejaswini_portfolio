@@ -33,7 +33,7 @@ A modern and responsive portfolio website showcasing my skills, projects, certif
 
 ## 🌐 Live Demo
 
-Coming Soon
+https://tejaswini-portfolio-beige.vercel.app/
 
 ## 📧 Contact
 
